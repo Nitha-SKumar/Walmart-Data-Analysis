@@ -133,13 +133,13 @@ It includes sales transaction data from three Walmart branches located in Mandal
 | C | Saturday | 7.23 |
 
 #### Revenue Analysis
-- City with Largest Revenue: The city generating the highest total revenue is identified.
-- Customer Types Contributing Most Revenue: Revenue contributions from different customer types are analyzed.
+- City with Largest Revenue: The city generating the highest total revenue is Naypyitaw.
+- Customer Types Contributing Most Revenue: Revenue contributions from different customer type 'Member' is contributing more.
 - Customer Lifetime Value: The estimated total value a customer brings over their relationship with the business is calculated.
 - Sales Performance Comparison Across Branches: A comparison of total sales and average ratings across branches is provided.
 #### Customer Analysis
-- Unique Customer Types: The dataset includes various distinct customer types.
-- Most Common Customer Type: The most frequently occurring customer type is identified.
+- Unique Customer Types: The dataset includes two distinct customer types.
+- Most Common Customer Type: The most frequently occurring customer type is 'Member'.
 - Customer Type Buying the Most: The customer type with the highest purchase frequency is highlighted.
 - Customer Type Paying Most VAT: The customer type with the highest average VAT payments is noted.
 - Customer Segmentation Using RFM Analysis: Customers are segmented based on Recency, Frequency, and Monetary value.
@@ -149,12 +149,12 @@ It includes sales transaction data from three Walmart branches located in Mandal
 - Customer Purchase Patterns by Gender and Type: Purchase patterns are analyzed based on gender and customer type.
 - Gender of Most Customers: The gender with the highest number of customers is highlighted.
 #### Rating Analysis
-- Average Rating of Each Product Line: The average rating for each product line is provided.
+- Average Rating of Each Product Line: The average rating for each product line is provided.Food and beverages has the highest rating.
 - Customer Feedback and Ratings Sentiment: Customer feedback and ratings are analyzed to gauge overall sentiment.
 #### Time of Day Analysis
-- Sales by Time of Day: The number of sales made at different times of the day is analyzed.
+- Sales by Time of Day: The number of sales made at different times of the day is analyzed. Evening time contributes more sales.
 - Ratings by Time of Day: The times of day when customers give the most ratings are identified.
 - Ratings by Time of Day for Branch "C": Specific analysis of ratings by time of day for branch "C".
 #### VAT Analysis
-- City with Largest VAT: The city with the highest average VAT percentage is identified.
+- City with Largest VAT: The city with the highest average VAT percentage is identified and which is 'Naypyitaw'.
 - Customer Type Paying Most VAT: The customer type with the highest average VAT payments is noted.
